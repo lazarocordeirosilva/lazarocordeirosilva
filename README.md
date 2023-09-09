@@ -1,4 +1,4 @@
-###<h1 align="center">Oi 👋, Eu sou o Lázaro</h1>
+###<h1 align="center">Oi 👋, eu sou o Lázaro</h1>
 <h3 align="center">Estudante de ciência e análise de dados, interessado por modelagem preditiva e toda capacidade das técnicas de aprendizado de máquina</h3>
 
 - 🌱 Atualmente estou aprendendo **Python, Machine Learning e SQL**
