@@ -1,7 +1,7 @@
 ###<h1 align="center">Oi 👋, eu sou o Lázaro</h1>
 <h3 align="center">Estudante de ciência e análise de dados, interessado por modelagem preditiva e toda capacidade das técnicas de aprendizado de máquina</h3>
 
-- 🌱 Atualmente estou aprendendo **Python, Machine Learning e SQL**
+- 🌱 Atualmente estou aprendendo **Python e Machine Learning voltados para Data Science**
 
 - 💬 Me pergunte sobre **SQL, Data Science, Machine Learning e Python**
 
@@ -9,6 +9,7 @@
 
 - 📄 Meu LinkedIn [https://www.linkedin.com/in/l%C3%A1zaro-cordeiro-silva-91aa60235/](https://www.linkedin.com/in/l%C3%A1zaro-cordeiro-silva-91aa60235/)
 
+- ✍️ Meu Medium [https://medium.com/@lazarocordeiro19](https://medium.com/@lazarocordeiro19)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/l%c3%a1zaro-cordeiro-silva-91aa60235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/l%c3%a1zaro-cordeiro-silva-91aa60235/" height="30" width="40" /></a>
